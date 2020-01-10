@@ -39,12 +39,13 @@ You can use
 
 For information about the parameters.
 
-**Note** There are two assumptions here:
+**Note** There assumptions here:
 
 1. You have three seperate files source_no_tags.txt and target_no_tags (both containing one sentence per line)
 2. You have a pre-trained priors file to inference the new alignment more information on eflomal's [README](https://github.com/robertostling/eflomal/blob/master/README.md). 
+3. The priors file should be located in the data directory
 
-All of these files can be found under the data directory
+All of these files should be in under the data directory
 
 
 
