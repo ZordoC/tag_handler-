@@ -1,0 +1,3 @@
+[submodule "tools/eflomal"]
+	path = tools/eflomal
+	url = https://github.com/robertostling/eflomal.git

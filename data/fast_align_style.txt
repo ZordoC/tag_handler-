@@ -1,0 +1,6 @@
+A white glove butler service on every floor ||| Традиционные услуги дворецкого на каждом этаже
+Vertical zipper pockets at hip and slant zipper pocket at bust. ||| Вертикальные карманы с молниями на бедрах и косой карман на молнии на груди.
+Then click the corner icon and drag the column to the required position. ||| Затем щелкните значок и перетащите колонку в необходимое положение
+The Format Finder help system displays and processes the search request in the location you selected (in a tab or in the Horizontal Assistant Tool Panel). ||| Система Format Finder отобразится и обработает поисковый запрос в выбранном местоположении (на вкладке или на горизонтальной панели инструментов помощника).
+When using the option to add carbon copy, the e-mail message is sent to the e-mail address in the first part of the entry and the name you entered appears in the carbon copy field of the e-mail message they receive. ||| При добавлении копии электронное сообщение отправляется на адрес в первой части формата , а указанное имя отображается в поле «Копия» полученного электронного письма.
+Request fare calculation details for multiple fare options travel segments displayed ||| Формат расчета нескольких тарифов отображения сегментов
