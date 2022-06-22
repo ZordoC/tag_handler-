@@ -2,6 +2,6 @@ beautifulsoup4==4.8.2
 bs4==0.0.1
 Cython==0.29.14
 lxml==4.4.2
-numpy==1.18.1
+numpy==1.22.0
 pkg-resources==0.0.0
 soupsieve==1.9.5
